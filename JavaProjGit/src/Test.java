@@ -31,4 +31,7 @@ public class Test {
 	{
 		
 	}
+	public void home2(){
+		
+	}
 }
