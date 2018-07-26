@@ -18,7 +18,10 @@ public class Test {
 
 	public void test() {
 	}
-
+    
+	public void home(){
+	}
 	public void test1() {
 	}
+
 }
