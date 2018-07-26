@@ -33,6 +33,9 @@ public class Test {
 	{
 	}
 	
+	public void test4()
+	{
+	}
 	public void home4()
 	{
 		
