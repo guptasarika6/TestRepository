@@ -21,5 +21,8 @@ public class Test {
     
 	public void home(){
 	}
-
+	public void home1()
+	{
+	}
+	
 }
